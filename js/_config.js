@@ -2,7 +2,7 @@
 
 var update_interval = 60000, // Twitter grabber update interval
 
-	SiteStartDate = '2023/11/12 00:00', // Date of site launch
+	SiteStartDate = '2023/11/16 00:00', // Date of site launch
 
 	youtube_bg_code = 'zKFl0stC5U8',
 
